@@ -1,3 +1,2 @@
-# sfords-stuff
-First repository
-Like to ref hockey
+sfords-stuff
+I like to ref hockey and party
